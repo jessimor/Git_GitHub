@@ -33,9 +33,20 @@ Para abrir página do Manual do Git: `git help config`
 
 
 
-## Criando um Projeto
-* Criar uma pasta no PC **Git e GitHub**
-* Dentro da pasta abrir **Open Git Bash here**
-* Criar pasta README.md
+## Clonando um Repositório
+Existem 2 formas de obter um repositório na sua maquina:
+* Transformando um repositório local que não está sob controle de versão, num repositório Git; comando `git init`
+*  Clonando um repositório Git existente; comando `git clone`
+
+### Criando um projeto
+* Criar uma pasta que a gente deseja transformar em um repositório Git
+* 
+  `mkdir NomeDaPasta` cria a pasta
+* `cd NomeDaPasta` entra na pasta
+* `git init` transforma a pasta em um repositório
+<sub>.git (quando contem esse ponto inicial é porque a pasta está oculta)</sub>
+* `ls` lista todo o conteúdo de dentro
+
+*Esse reposotório .git tem todos os arquivos necessários para gerenciar o nosso controle de versão*
 
 
