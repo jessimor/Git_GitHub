@@ -90,7 +90,7 @@ Se fiz alterações no meu diretório (README) e quero voltar com as informaçõ
 
 ## 📑Adição e alteração de Arquivos
 
-* Em nosso arquivo no GitHub adicionamos uma alteração
+* Em nosso arquivo adicionamos uma alteração
 
 * Criamos um novo arquivo (Ex.:Resumo.md) e escrevemos Conteúdo das Aulas
 * `git add .` para subir essa alteração e adicionar todos os arquivos
