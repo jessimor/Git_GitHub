@@ -9,13 +9,19 @@
 * Gratuito e Open Source (código aberto)
 * Ramificações e fusões eficientes
 * Leve e rápido
+* [Documentação Git](https://git-scm.com/doc)
 
 ## 💻GitHub
 Plataforma de hospedagem de código para controle de versão com Git e Colaboração
 
+[Documentaçao GitHub](https://docs.github.com/pt)
+
 <sub>*Git atua na parte de banco de versões onde faz o gerenciamento das versões do cógido.*
 *Github se configura como servidor que estará hospedando o código/repositório remoto.*</sub>
+
 ## git config
+
+(file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git-config.html)
 
 Permite visualizar e definir variáveis de configuração do nosso Git. Essas variáveis ficam armazenadas principalmente em 3 lugares: 
 
